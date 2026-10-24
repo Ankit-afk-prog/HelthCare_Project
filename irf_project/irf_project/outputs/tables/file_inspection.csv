@@ -1,0 +1,29 @@
+,file,dtype,missing_%,n_unique,example
+CMS Certification Number (CCN),General Information,object,0.0,1222,013025
+Provider Name,General Information,object,0.0,1207,ENCOMPASS HEALTH LAKESHORE REHABILITATION HOSPITAL
+Address Line 1,General Information,object,0.0,1220,3800 RIDGEWAY DRIVE
+Address Line 2,General Information,object,0.0,68,-
+City/Town,General Information,object,0.0,830,BIRMINGHAM
+State,General Information,object,0.0,52,AL
+ZIP Code,General Information,object,0.0,1126,35209
+County/Parish,General Information,object,0.0,537,Jefferson
+Telephone Number,General Information,object,0.0,1136,(205) 868-2000
+CMS Region,General Information,object,0.0,10,4
+Ownership Type,General Information,object,0.0,4,For profit
+Certification Date,General Information,object,0.0,685,10/01/1983
+CMS Certification Number (CCN),Provider Data,object,0.0,1222,013025
+Provider Name,Provider Data,object,0.0,1207,ENCOMPASS HEALTH LAKESHORE REHABILITATION HOSPITAL
+Address Line 1,Provider Data,object,0.0,1220,3800 RIDGEWAY DRIVE
+Address Line 2,Provider Data,object,0.0,68,-
+City/Town,Provider Data,object,0.0,830,BIRMINGHAM
+State,Provider Data,object,0.0,52,AL
+ZIP Code,Provider Data,object,0.0,1126,35209
+County/Parish,Provider Data,object,0.0,537,Jefferson
+Telephone Number,Provider Data,object,0.0,1136,(205) 868-2000
+CMS Region,Provider Data,object,0.0,10,4
+Measure Code,Provider Data,object,0.0,65,I_006_01_CI_LOWER
+Score,Provider Data,object,0.0,12195,0.506
+Footnote,Provider Data,object,0.0,8,-
+Start Date,Provider Data,object,0.0,4,10/01/2024
+End Date,Provider Data,object,0.0,4,09/30/2025
+Measure Date Range,Provider Data,object,0.0,1,-

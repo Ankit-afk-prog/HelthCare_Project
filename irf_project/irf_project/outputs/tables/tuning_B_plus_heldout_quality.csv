@@ -1,0 +1,5 @@
+model,cv_macro_f1,cv_std,best_params
+Logistic Regression,0.3951751395200505,0.020135936418632667,{'C': 10}
+Decision Tree,0.388862041583916,0.027058091009582737,"{'max_depth': 6, 'min_samples_leaf': 20}"
+Random Forest,0.4176778882239673,0.04406593072966441,"{'max_depth': None, 'max_features': 0.5, 'min_samples_leaf': 10}"
+XGBoost,0.4275919043821787,0.040084226499863394,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 150}"

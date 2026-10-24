@@ -1,0 +1,12 @@
+measure,name,n_valid,min,max,invalid_values
+I_015_01_SIR,C. difficile infection SIR,977,0.0,3.382,0
+I_013_01_OBS_RATE,Falls with major injury (%),1135,0.0,2.44,0
+I_022_01_ADJ_RATE,"New/worsened pressure ulcers, risk-adj. (%)",1135,0.0,9.46,0
+I_017_01_PPR_PD_RSRR,Preventable 30-day post-discharge readmission (RSRR),1126,7.04,12.72,0
+I_018_01_PPR_WI_RSRR,Preventable within-stay readmission (RSRR),1126,2.9,8.08,0
+I_019_02_DTC_RS_RATE,"Discharge to community, risk-std. (%)",1126,37.4,82.36,0
+I_026_01_OBS_RATE,Discharge function score met/exceeded (%),1134,0.0,96.3,0
+I_021_01_OBS_RATE,Drug regimen review with follow-up (%),1135,0.0,100.0,0
+I_024_01_OBS_RATE,Med list to next care setting (%),1126,1.17,100.0,0
+I_025_02_OBS_RATE,Med list to patient/caregiver (%),1027,0.0,100.0,0
+I_020_01_MSPB_SCORE,Medicare spending per beneficiary (ratio),1098,0.71,1.78,0

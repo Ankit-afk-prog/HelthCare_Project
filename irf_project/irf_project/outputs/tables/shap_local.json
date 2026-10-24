@@ -1,0 +1,50 @@
+[
+ {
+  "category": "Low",
+  "CCN": "52TA05",
+  "facility": "LAKEVIEW SPECIALTY HOSPITAL & REHAB CENTER",
+  "pred_prob": 0.7309125065803528,
+  "top_positive": {
+   "log_eligible_stays": 0.556,
+   "log_function_cases": 0.381,
+   "ownership_For profit": 0.346
+  },
+  "top_negative": {
+   "log_mspb_episodes": -0.386,
+   "n_irf_in_state": -0.272,
+   "cms_region_2": -0.018
+  }
+ },
+ {
+  "category": "Medium",
+  "CCN": "45TA23",
+  "facility": "KINDRED HOSPITAL HOUSTON MEDICAL CENTER",
+  "pred_prob": 0.7440770268440247,
+  "top_positive": {
+   "log_function_cases": 0.667,
+   "n_irf_in_state": 0.334,
+   "log_mspb_episodes": 0.327
+  },
+  "top_negative": {
+   "ownership_For profit": -0.034,
+   "log_eligible_stays": -0.032,
+   "cms_region_9": -0.027
+  }
+ },
+ {
+  "category": "High",
+  "CCN": "013029",
+  "facility": "ENCOMPASS HEALTH REHABILITATION HOSPITAL NORTH AL",
+  "pred_prob": 0.7387182116508484,
+  "top_positive": {
+   "log_eligible_stays": 1.205,
+   "name_encompass_chain": 0.329,
+   "log_function_cases": 0.093
+  },
+  "top_negative": {
+   "log_mspb_episodes": -0.219,
+   "ownership_For profit": -0.071,
+   "n_irf_in_state": -0.03
+  }
+ }
+]

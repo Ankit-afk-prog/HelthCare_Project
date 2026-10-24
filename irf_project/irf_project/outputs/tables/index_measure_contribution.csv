@@ -1,0 +1,12 @@
+measure,n_available,spearman_with_index
+C. difficile infection SIR,977,0.1340996309755629
+Falls with major injury (%),1135,0.2511036465756432
+"New/worsened pressure ulcers, risk-adj. (%)",1135,0.2927748768783592
+Preventable 30-day post-discharge readmission (RSRR),1126,0.3674725873510951
+Preventable within-stay readmission (RSRR),1126,0.46881723299973527
+"Discharge to community, risk-std. (%)",1126,0.557961868294951
+Discharge function score met/exceeded (%),1134,0.2819918696345541
+Drug regimen review with follow-up (%),1135,0.42544306324810705
+Med list to next care setting (%),1126,0.4605927303544895
+Med list to patient/caregiver (%),1027,0.5253763626420678
+Medicare spending per beneficiary (ratio),1098,0.38877233022152613

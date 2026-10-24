@@ -1,0 +1,82 @@
+{
+ "data": {
+  "general_rows": 1222,
+  "provider_long_rows": 79430,
+  "pivoted_rows": 1222,
+  "merged_rows": 1222,
+  "provider_measures_per_facility": 65,
+  "n_measure_codes": 65,
+  "text_labels_rows": 14175,
+  "general_dups": 0,
+  "provider_dups": 0,
+  "all_ccn_matched": true,
+  "invalid_values_total": 0
+ },
+ "index": {
+  "n_scored": 1123,
+  "n_excluded_lt_min": 99,
+  "min_measures": 8,
+  "tercile_cuts": [
+   45.296750680512474,
+   55.146816710982385
+  ],
+  "class_counts": {
+   "Low": 375,
+   "Medium": 373,
+   "High": 375
+  },
+  "index_mean": 49.938304131164955,
+  "index_sd": 10.88592091262153,
+  "index_min": 17.560887355344256,
+  "index_max": 82.9144468880136,
+  "measures_available_dist": {
+   "0": 77,
+   "1": 7,
+   "3": 2,
+   "4": 2,
+   "5": 2,
+   "6": 7,
+   "7": 2,
+   "8": 4,
+   "9": 60,
+   "10": 163,
+   "11": 896
+  }
+ },
+ "class_distribution_scored": {
+  "Low": 375,
+  "Medium": 373,
+  "High": 375
+ },
+ "leakage_demo_cv_accuracy_index_measures_as_features": 0.7791785714285714,
+ "voting_weights": {
+  "Logistic Regression": 0.30870814962250526,
+  "Random Forest": 0.34562962054101043,
+  "XGBoost": 0.34566222983648426
+ },
+ "n_train": 898,
+ "n_test": 225,
+ "design2": {
+  "n_scored": 1123,
+  "tercile_cuts": [
+   45.17056274156403,
+   55.35936172447794
+  ],
+  "class_counts": {
+   "Low": 375,
+   "Medium": 374,
+   "High": 374
+  },
+  "min_measures": 6
+ },
+ "env": {
+  "python": "3.12.4",
+  "pandas": "2.2.3",
+  "numpy": "2.4.6",
+  "scipy": "1.15.2",
+  "scikit-learn": "1.6.1",
+  "xgboost": "3.1.1",
+  "shap": "0.52.0"
+ },
+ "seed": 42
+}

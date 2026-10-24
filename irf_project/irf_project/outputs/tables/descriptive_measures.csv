@@ -1,0 +1,12 @@
+,count,mean,std,min,25%,50%,75%,max
+C. difficile infection SIR,977.0,0.335,0.434,0.0,0.0,0.223,0.517,3.382
+Falls with major injury (%),1135.0,0.139,0.215,0.0,0.0,0.0,0.225,2.44
+"New/worsened pressure ulcers, risk-adj. (%)",1135.0,0.897,1.012,0.0,0.21,0.56,1.27,9.46
+Preventable 30-day post-discharge readmission (RSRR),1126.0,9.469,0.874,7.04,8.89,9.4,10.01,12.72
+Preventable within-stay readmission (RSRR),1126.0,4.783,0.785,2.9,4.23,4.68,5.2,8.08
+"Discharge to community, risk-std. (%)",1126.0,67.286,5.179,37.4,64.602,67.79,70.558,82.36
+Discharge function score met/exceeded (%),1134.0,64.191,18.98,0.0,51.95,65.97,80.462,96.3
+Drug regimen review with follow-up (%),1135.0,97.435,9.034,0.0,98.33,99.47,100.0,100.0
+Med list to next care setting (%),1126.0,96.702,10.689,1.17,98.708,99.83,100.0,100.0
+Med list to patient/caregiver (%),1027.0,98.278,5.129,0.0,98.0,100.0,100.0,100.0
+Medicare spending per beneficiary (ratio),1098.0,1.001,0.098,0.71,0.94,0.99,1.05,1.78

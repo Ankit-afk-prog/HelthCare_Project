@@ -1,0 +1,12 @@
+measure,better,domain,Equal weights,Domain-balanced,PCA (PC1) loadings
+C. difficile infection SIR,lower,Safety,1.0,0.0667,0.1548
+Falls with major injury (%),lower,Safety,1.0,0.0667,0.0441
+"New/worsened pressure ulcers, risk-adj. (%)",lower,Safety,1.0,0.0667,0.0815
+Preventable 30-day post-discharge readmission (RSRR),lower,Readmission & community return,1.0,0.0667,0.2446
+Preventable within-stay readmission (RSRR),lower,Readmission & community return,1.0,0.0667,0.3594
+"Discharge to community, risk-std. (%)",higher,Readmission & community return,1.0,0.0667,0.4187
+Discharge function score met/exceeded (%),higher,Functional outcome,1.0,0.2,0.1755
+Drug regimen review with follow-up (%),higher,Care processes,1.0,0.0667,0.3277
+Med list to next care setting (%),higher,Care processes,1.0,0.0667,0.4138
+Med list to patient/caregiver (%),higher,Care processes,1.0,0.0667,0.4479
+Medicare spending per beneficiary (ratio),lower,Cost efficiency,1.0,0.2,0.305
